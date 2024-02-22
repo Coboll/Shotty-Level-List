@@ -11,7 +11,7 @@ const d = {
               },
 
           ],
-          "name": "Shotty somthing",
+          "name": "Shotty Cobwebs",
           "author": "Coboll",
           "more": "None",
           "id": 83870024,
